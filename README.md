@@ -1,5 +1,5 @@
 - 🌱 I’m currently learning ... <br />
-![loading (1)](https://github.com/user-attachments/assets/b9aa3e30-5da6-4b1b-9898-a12b6e3caaf4)
+![Loadin learn](https://github.com/user-attachments/assets/b54a7731-1a1c-414b-ae7f-2dee0e53be49)
 
 
 # 💻 Tech Stack:

@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning ... ![book turning 2](https://github.com/user-attachments/assets/d7f1b2e1-bf41-487e-9336-2f8a33aaf39e)
+- 🌱 I’m currently learning ... 
 
 
 # 💻 Tech Stack:

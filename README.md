@@ -1,5 +1,6 @@
 # 💫 About Me:
 🐍 I’m currently learning on python
+![book turning 2](https://github.com/user-attachments/assets/ed7d3888-afe7-4151-a371-69671123f72e)
 
 
 # 💻 Tech Stack:

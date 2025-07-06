@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently working on my personal project with VidadTol — a website designed to connect different athletes. The platform, called Motiv Sport, makes it easier for people to play sports together.🤸
 https://github.com/VidadTol
+-> We make a good progress on Tailwind/Next.js
 
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 10px;">

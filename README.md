@@ -10,14 +10,6 @@ I'm currently working on my personal project with VidadTol — a website designe
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="51" height="51" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="51" height="51" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" width="51" height="51" />
-</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JoBEph&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoBEph&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

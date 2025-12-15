@@ -32,6 +32,6 @@ https://github.com/VidadTol
 
 
 # 📊 GitHub Stats:
-![JobEph's Stats](https://github-readme-stats.vercel.app/api?username=JobEph&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
-![JobEph's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JobEph&theme=blue-green&hide_border=false)
-![JobEph's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JobEph&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
+
+<img width="696" height="1136" alt="github-wrapped-JoBEph" src="https://github.com/user-attachments/assets/af4d38b8-f95a-4844-b881-710472a1a3b9" />
+

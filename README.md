@@ -1,3 +1,4 @@
+<img width="2000" height="2000" alt="Hi i’m JoBEph" src="https://github.com/user-attachments/assets/e05b4c49-d32c-4667-806d-9ecde76d4354" />
 # 💫 About Me:
 I'm currently working on my personal project with VidadTol — a website designed to connect different athletes. The platform, called Motiv Sport, makes it easier for people to play sports together.🤸</br>
 -> We make a good progress on Tailwind/Next.js</br>
@@ -29,9 +30,3 @@ https://github.com/VidadTol
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="icon" width="51" height="51" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="icon" width="51" height="51" />
 </div>
-
-
-# 📊 GitHub Stats:
-
-<img width="696" height="1136" alt="github-wrapped-JoBEph" src="https://github.com/user-attachments/assets/af4d38b8-f95a-4844-b881-710472a1a3b9" />
-

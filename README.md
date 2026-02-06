@@ -1,5 +1,6 @@
- <img width="1280" height="1280" alt="transparent-Photoroom" src="https://github.com/user-attachments/assets/0ef7a875-4e93-4607-a852-b3563a14eb8a" />
-</br>
+
+<img width="1138" height="448" alt="testreadme" src="https://github.com/user-attachments/assets/418c86b9-ae6f-4e8c-8d55-a00d4b377e80" />
+
 # 💫 About Me:
 I'm currently working on my personal project with VidadTol — a website designed to connect different athletes. The platform, called Motiv Sport, makes it easier for people to play sports together.🤸</br>
 -> We make a good progress on Tailwind/Next.js</br>

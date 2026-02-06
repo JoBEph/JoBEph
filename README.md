@@ -2,11 +2,8 @@
 <img width="1138" height="448" alt="testreadme" src="https://github.com/user-attachments/assets/418c86b9-ae6f-4e8c-8d55-a00d4b377e80" />
 
 # 💫 About Me:
-I'm currently working on my personal project with VidadTol — a website designed to connect different athletes. The platform, called Motiv Sport, makes it easier for people to play sports together.🤸</br>
--> We make a good progress on Tailwind/Next.js</br>
+Cyber developer in training at Holberton School, focusing on cybersecurity and application security. I am gaining hands-on experience with tools such as Burp Suite, as well as SAST and DAST approaches, including SonarQube, to analyze code, identify vulnerabilities, and improve system security. Curious and detail-oriented, I am building strong skills in programming, security auditing, and secure development best practices.
 </br>
-https://github.com/VidadTol
-
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="51" height="51" />
@@ -32,3 +29,4 @@ https://github.com/VidadTol
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="icon" width="51" height="51" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="icon" width="51" height="51" />
 </div>
+https://github.com/VidadTol -> Teamate freelancer for website !

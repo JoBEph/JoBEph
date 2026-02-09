@@ -35,13 +35,5 @@ Cyber developer in training at Holberton School, focusing on cybersecurity and a
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun" width="45" height="45" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical" alt="Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical" alt="Langs" />
-</p>
-
 ## 🤝 Collaborative Projects
 * **Freelance Team:** Working with [VidadTol](https://github.com/VidadTol).

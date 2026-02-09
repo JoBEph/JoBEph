@@ -4,33 +4,44 @@
 # 💫 About Me:
 Cyber developer in training at Holberton School, focusing on cybersecurity and application security. I am gaining hands-on experience with tools such as Burp Suite, as well as SAST and DAST approaches, including SonarQube, to analyze code, identify vulnerabilities, and improve system security. Curious and detail-oriented, I am building strong skills in programming, security auditing, and secure development best practices.
 </br>
-# 💻 Tech Stack:
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="51" height="51" />
-  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="#fff" d="M87.356 20.423 55.83 1.694c-3.73-2.203-8.39-2.203-12.204 0L12.102 20.423C8.372 22.626 6 26.779 6 31.27v37.458c0 4.492 2.288 8.56 6.102 10.847l31.525 18.73c1.864 1.1 3.983 1.694 6.102 1.694 2.118 0 4.237-.593 6.102-1.695l31.525-18.729c3.729-2.203 6.102-6.356 6.102-10.847V31.186c0-4.407-2.288-8.56-6.102-10.763"/><path fill="#2A3238" d="M87.356 20.423 55.83 1.694C53.966.592 51.847 0 49.729 0s-4.237.593-6.102 1.695L12.102 20.423C8.372 22.626 6 26.779 6 31.27v37.458c0 4.492 2.288 8.56 6.102 10.847l31.525 18.73c1.864 1.1 3.983 1.694 6.102 1.694 2.118 0 4.237-.593 6.102-1.695l31.525-18.729c3.729-2.203 6.102-6.356 6.102-10.847V31.186c0-4.407-2.288-8.56-6.102-10.763M44.729 96.27 13.203 77.542c-3.05-1.865-5-5.255-5-8.899V31.186c0-3.645 1.95-7.12 5-8.899L44.73 3.558c1.525-.932 3.22-1.355 5-1.355s3.474.508 5 1.355l31.525 18.73c2.627 1.525 4.322 4.237 4.83 7.203-1.016-2.204-3.39-2.882-6.186-1.271L55.153 46.694c-3.73 2.203-6.441 4.576-6.441 9.068v36.78c0 2.711 1.101 4.406 2.712 4.915-.509.085-1.102.17-1.695.17-1.695.084-3.475-.424-5-1.357"/><path fill="#4DA925" d="m79.135 72.287-7.881 4.661c-.17.085-.339.255-.339.509v2.034c0 .254.17.339.339.254l7.966-4.83c.17-.085.254-.34.254-.594v-1.78c0-.254-.17-.338-.339-.254"/><path fill="#fff" d="M62.356 55c.254-.17.423 0 .508.338v2.712c1.102-.424 2.119-.593 3.051-.339.17.085.254.339.17.593l-.594 2.373-.254.509c-.085.084-.085.084-.17.084-.084 0-.169.085-.254 0-.423-.085-1.356-.339-2.881.509-1.61.847-2.203 2.203-2.119 3.22 0 1.271.678 1.61 2.797 1.61 2.881.085 4.153 1.356 4.237 4.238 0 2.88-1.525 6.017-3.898 7.88l.085 2.713c0 .339-.17.678-.424.847L61 83.22c-.254.17-.424 0-.509-.338v-2.628c-1.356.594-2.712.678-3.644.34-.17-.085-.254-.34-.17-.594l.594-2.457c.085-.17.17-.424.254-.509.085-.085.085-.085.17-.085q.127-.126.254 0c.932.34 2.203.17 3.305-.423 1.526-.763 2.458-2.289 2.458-3.814 0-1.356-.763-1.95-2.543-1.95-2.288 0-4.406-.423-4.491-3.813 0-2.796 1.44-5.678 3.729-7.457V56.78c0-.34.17-.678.423-.848z"/></svg>
-</div>
+## 💻 Tech Stack
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="icon" width="51" height="51" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="icon" width="51" height="51" />
-</div>
+### 🔐 Cybersecurity & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" />
+</p>
 
-https://github.com/VidadTol -> Teamate freelancer for website !
+### 🚀 Development (Backend & Frontend)
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind" width="45" height="45" />
+</p>
+
+### 🗄️ Database & Tools
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VSCode" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun" width="45" height="45" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical" alt="Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical" alt="Langs" />
+</p>
+
+## 🤝 Collaborative Projects
+* **Freelance Team:** Working with [VidadTol](https://github.com/VidadTol).

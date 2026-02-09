@@ -35,11 +35,5 @@ Cyber developer in training at Holberton School, focusing on cybersecurity and a
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun" width="45" height="45" />
 </p>
 
-## 📊 Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoBEph&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="JoBEph GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBEph&layout=compact&theme=radical&border_radius=10" alt="JoBEph Top Languages" height="170" />
-</p>
-
 ## 🤝 Collaborative Projects
 * **Freelance Team:** Working with [VidadTol](https://github.com/VidadTol).

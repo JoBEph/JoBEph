@@ -2,7 +2,7 @@
 <img width="1138" height="448" alt="testreadme" src="https://github.com/user-attachments/assets/418c86b9-ae6f-4e8c-8d55-a00d4b377e80" />
 
 # 💫 About Me:
-Cyber developer in training at Holberton School, focusing on cybersecurity and application security. I am gaining hands-on experience with tools such as Burp Suite, as well as SAST and DAST approaches, including SonarQube, to analyze code, identify vulnerabilities, and improve system security. Curious and detail-oriented, I am building strong skills in programming, security auditing, and secure development best practices.
+Cyber developer in training at Holberton School, focusing on cybersecurity and application security. I am gaining hands-on experience with tools such as Burp Suite, as well as SAST and DAST approaches, including SonarQube, to analyze code, identify vulnerabilities, and improve system security. Curious and detail-oriented, I am building strong skills in programming, security auditing, and secure development best practices.</br>
 Website : https://jobeph.github.io/
 </br>
 ## 💻 Tech Stack

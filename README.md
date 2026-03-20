@@ -1,6 +1,5 @@
 
-<img width="1645" height="482" alt="Hi i’m JoBEph band" src="https://github.com/user-attachments/assets/a142be91-4851-47ab-8c22-b6fcce67bf61" />
-
+<img width="1668" height="480" alt="Hi i’m JoBEph band" src="https://github.com/user-attachments/assets/6cfd59e4-28b2-4d07-a799-272030d79cb6" />
 
 # 💫 About Me:
 Cyber developer in training at Holberton School, focusing on cybersecurity and application security. I am gaining hands-on experience with tools such as Burp Suite, as well as SAST and DAST approaches, including SonarQube, to analyze code, identify vulnerabilities, and improve system security. Curious and detail-oriented, I am building strong skills in programming, security auditing, and secure development best practices.</br>
